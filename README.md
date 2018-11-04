@@ -70,7 +70,3 @@ docker-compose up -d
 * <a href="https://github.com/rguthrie3/DeepLearningForNLPInPytorch">DeepLearningForNLPInPytorch</a>
 * <a href="https://github.com/yunjey/pytorch-tutorial">pytorch-tutorial</a>
 * <a href="https://github.com/pytorch/examples/">pytorch-examples</a>
-
-## Author
-
-Sungdong Kim / <a href="https://github.com/DSKSD">@DSKSD</a>
